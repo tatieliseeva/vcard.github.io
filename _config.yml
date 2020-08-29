@@ -4,8 +4,8 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Antares Analytics
-user_description: Antares Analytics delivers scallable solutions and digital products for your business
+user_description: 
 user_title: 
-email: t.eliseeva@web.de
+email: contact@antaresanalytics.de
 
 exclude: ['package.json', 'src' , 'node_modules']
