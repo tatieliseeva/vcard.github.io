@@ -8,4 +8,11 @@ user_description:
 user_title: 
 email: contact@antaresanalytics.de
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: 
+  - node_modules
+  - "Gem*"
+  - src
+  - package*.json
+  - LICENSE
+  - gulpfile.js
+  - CNAME
